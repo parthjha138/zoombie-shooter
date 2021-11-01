@@ -1,2 +1,1 @@
-# zoombie-shooter
-shoot the zombie
+# Zombie-Shooter-stage-3
